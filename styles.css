@@ -1,12 +1,12 @@
 
 /* Your CSS Code here. */
-body{
+.holder{
     width: 1500px;
     height: 30px;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
 }
-div{
+.holder *{
     margin: 0px 5px;
 }
